@@ -15,5 +15,5 @@ int main ()
 {
 	// Hello world
 	std::cout << "Hallo, Welt!" << std::endl;
-	return 0
+	return 0; // Don't forget the Semi-Colon! ;)
 }
