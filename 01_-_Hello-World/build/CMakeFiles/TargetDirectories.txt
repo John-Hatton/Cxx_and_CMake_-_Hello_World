@@ -1,0 +1,5 @@
+/mnt/c/dev/Saves/Cxx/Cxx_and_CMake_-_Hello_World/01_-_Hello-World/build/CMakeFiles/edit_cache.dir
+/mnt/c/dev/Saves/Cxx/Cxx_and_CMake_-_Hello_World/01_-_Hello-World/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/dev/Saves/Cxx/Cxx_and_CMake_-_Hello_World/01_-_Hello-World/build/src/CMakeFiles/HelloWorld.dir
+/mnt/c/dev/Saves/Cxx/Cxx_and_CMake_-_Hello_World/01_-_Hello-World/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/dev/Saves/Cxx/Cxx_and_CMake_-_Hello_World/01_-_Hello-World/build/src/CMakeFiles/rebuild_cache.dir
