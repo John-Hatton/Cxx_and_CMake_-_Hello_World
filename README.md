@@ -24,6 +24,9 @@ Next we will be creating our CMakeLists.txt file. This is where CMake goes to fi
 A thorough study of CMake is well worth the effort. We start by telling CMake the project name. Then 
 the minimum version number, and finally we tell CMake to add an executible file, and how to name it. 
 
+We add the build directory, and a src directory, moving all files over, because we're dumb.
+
+
 Remove red cover. Remove key from neck and insert, turning clockwise. Press the red button.
 
 
